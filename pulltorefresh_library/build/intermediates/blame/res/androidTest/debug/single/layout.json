@@ -28,7 +28,15 @@
         "source": "C:\\Rxjava_NiuPai_Lqtj\\pulltorefresh_library\\build\\intermediates\\bundles\\debug\\res\\layout\\pull_to_refresh_header_horizontal.xml"
     },
     {
+        "merged": "C:\\Users\\user\\Desktop\\xuxiarong\\XXR_ZC_ZXY_LQTJ\\pulltorefresh_library\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\pull_to_refresh_header_horizontal.xml",
+        "source": "C:\\Users\\user\\Desktop\\xuxiarong\\XXR_ZC_ZXY_LQTJ\\pulltorefresh_library\\build\\intermediates\\bundles\\debug\\res\\layout\\pull_to_refresh_header_horizontal.xml"
+    },
+    {
         "merged": "F:\\work\\niupai\\Rxjava_NiuPai_Lqtj\\pulltorefresh_library\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\pull_to_refresh_header_vertical.xml",
         "source": "F:\\work\\niupai\\Rxjava_NiuPai_Lqtj\\pulltorefresh_library\\build\\intermediates\\bundles\\debug\\res\\layout\\pull_to_refresh_header_vertical.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\xuxiarong\\XXR_ZC_ZXY_LQTJ\\pulltorefresh_library\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\pull_to_refresh_header_vertical.xml",
+        "source": "C:\\Users\\user\\Desktop\\xuxiarong\\XXR_ZC_ZXY_LQTJ\\pulltorefresh_library\\build\\intermediates\\bundles\\debug\\res\\layout\\pull_to_refresh_header_vertical.xml"
     }
 ]

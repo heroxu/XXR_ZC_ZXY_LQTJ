@@ -1,5 +1,9 @@
 [
     {
+        "merged": "C:\\Users\\user\\Desktop\\xuxiarong\\XXR_ZC_ZXY_LQTJ\\pulltorefresh_library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\app_refresh_people_6.png",
+        "source": "C:\\Users\\user\\Desktop\\xuxiarong\\XXR_ZC_ZXY_LQTJ\\pulltorefresh_library\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\app_refresh_people_6.png"
+    },
+    {
         "merged": "F:\\Users\\susan\\Desktop\\mvp_csc_hnc_2.1.0\\pulltorefresh_library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\app_refresh_people_5.png",
         "source": "F:\\Users\\susan\\Desktop\\mvp_csc_hnc_2.1.0\\pulltorefresh_library\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\app_refresh_people_5.png"
     },
@@ -20,12 +24,24 @@
         "source": "F:\\Users\\susan\\Desktop\\mvp_csc_hnc_2.1.0\\pulltorefresh_library\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\app_refresh_people_4.png"
     },
     {
+        "merged": "C:\\Users\\user\\Desktop\\xuxiarong\\XXR_ZC_ZXY_LQTJ\\pulltorefresh_library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\default_ptr_rotate.png",
+        "source": "C:\\Users\\user\\Desktop\\xuxiarong\\XXR_ZC_ZXY_LQTJ\\pulltorefresh_library\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\default_ptr_rotate.png"
+    },
+    {
         "merged": "F:\\Users\\susan\\Desktop\\mvp_csc_hnc_2.1.0\\pulltorefresh_library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\app_refresh_people_10.png",
         "source": "F:\\Users\\susan\\Desktop\\mvp_csc_hnc_2.1.0\\pulltorefresh_library\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\app_refresh_people_10.png"
     },
     {
+        "merged": "C:\\Users\\user\\Desktop\\xuxiarong\\XXR_ZC_ZXY_LQTJ\\pulltorefresh_library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\app_refresh_people_7.png",
+        "source": "C:\\Users\\user\\Desktop\\xuxiarong\\XXR_ZC_ZXY_LQTJ\\pulltorefresh_library\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\app_refresh_people_7.png"
+    },
+    {
         "merged": "C:\\NiuPai_Lqtj\\pulltorefresh_library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\app_refresh_people_1.png",
         "source": "C:\\NiuPai_Lqtj\\pulltorefresh_library\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\app_refresh_people_1.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\xuxiarong\\XXR_ZC_ZXY_LQTJ\\pulltorefresh_library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\app_refresh_people_0.png",
+        "source": "C:\\Users\\user\\Desktop\\xuxiarong\\XXR_ZC_ZXY_LQTJ\\pulltorefresh_library\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\app_refresh_people_0.png"
     },
     {
         "merged": "C:\\NiuPai_Lqtj\\pulltorefresh_library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\app_refresh_people_7.png",
@@ -42,6 +58,10 @@
     {
         "merged": "C:\\Rxjava_NiuPai_Lqtj\\pulltorefresh_library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\app_refresh_people_8.png",
         "source": "C:\\Rxjava_NiuPai_Lqtj\\pulltorefresh_library\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\app_refresh_people_8.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\xuxiarong\\XXR_ZC_ZXY_LQTJ\\pulltorefresh_library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\app_refresh_people_10.png",
+        "source": "C:\\Users\\user\\Desktop\\xuxiarong\\XXR_ZC_ZXY_LQTJ\\pulltorefresh_library\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\app_refresh_people_10.png"
     },
     {
         "merged": "F:\\work\\niupai\\Rxjava_NiuPai_Lqtj\\pulltorefresh_library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\default_ptr_rotate.png",
@@ -76,12 +96,32 @@
         "source": "F:\\work\\niupai\\Rxjava_NiuPai_Lqtj\\pulltorefresh_library\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\app_refresh_people_7.png"
     },
     {
+        "merged": "C:\\Users\\user\\Desktop\\xuxiarong\\XXR_ZC_ZXY_LQTJ\\pulltorefresh_library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\app_refresh_people_2.png",
+        "source": "C:\\Users\\user\\Desktop\\xuxiarong\\XXR_ZC_ZXY_LQTJ\\pulltorefresh_library\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\app_refresh_people_2.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\xuxiarong\\XXR_ZC_ZXY_LQTJ\\pulltorefresh_library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\app_refresh_people_8.png",
+        "source": "C:\\Users\\user\\Desktop\\xuxiarong\\XXR_ZC_ZXY_LQTJ\\pulltorefresh_library\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\app_refresh_people_8.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\xuxiarong\\XXR_ZC_ZXY_LQTJ\\pulltorefresh_library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\app_refresh_people_5.png",
+        "source": "C:\\Users\\user\\Desktop\\xuxiarong\\XXR_ZC_ZXY_LQTJ\\pulltorefresh_library\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\app_refresh_people_5.png"
+    },
+    {
         "merged": "C:\\NiuPai_Lqtj\\pulltorefresh_library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\default_ptr_flip.png",
         "source": "C:\\NiuPai_Lqtj\\pulltorefresh_library\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\default_ptr_flip.png"
     },
     {
+        "merged": "C:\\Users\\user\\Desktop\\xuxiarong\\XXR_ZC_ZXY_LQTJ\\pulltorefresh_library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\indicator_arrow.png",
+        "source": "C:\\Users\\user\\Desktop\\xuxiarong\\XXR_ZC_ZXY_LQTJ\\pulltorefresh_library\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\indicator_arrow.png"
+    },
+    {
         "merged": "F:\\work\\niupai\\Rxjava_NiuPai_Lqtj\\pulltorefresh_library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\indicator_arrow.png",
         "source": "F:\\work\\niupai\\Rxjava_NiuPai_Lqtj\\pulltorefresh_library\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\indicator_arrow.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\xuxiarong\\XXR_ZC_ZXY_LQTJ\\pulltorefresh_library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\app_refresh_people_3.png",
+        "source": "C:\\Users\\user\\Desktop\\xuxiarong\\XXR_ZC_ZXY_LQTJ\\pulltorefresh_library\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\app_refresh_people_3.png"
     },
     {
         "merged": "C:\\Rxjava_NiuPai_Lqtj\\pulltorefresh_library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\indicator_arrow.png",
@@ -108,8 +148,16 @@
         "source": "F:\\work\\niupai\\Rxjava_NiuPai_Lqtj\\pulltorefresh_library\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\app_refresh_people_1.png"
     },
     {
+        "merged": "C:\\Users\\user\\Desktop\\xuxiarong\\XXR_ZC_ZXY_LQTJ\\pulltorefresh_library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\app_refresh_people_9.png",
+        "source": "C:\\Users\\user\\Desktop\\xuxiarong\\XXR_ZC_ZXY_LQTJ\\pulltorefresh_library\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\app_refresh_people_9.png"
+    },
+    {
         "merged": "F:\\Users\\susan\\Desktop\\mvp_csc_hnc_2.1.0\\pulltorefresh_library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\app_refresh_people_7.png",
         "source": "F:\\Users\\susan\\Desktop\\mvp_csc_hnc_2.1.0\\pulltorefresh_library\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\app_refresh_people_7.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\xuxiarong\\XXR_ZC_ZXY_LQTJ\\pulltorefresh_library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\default_ptr_flip.png",
+        "source": "C:\\Users\\user\\Desktop\\xuxiarong\\XXR_ZC_ZXY_LQTJ\\pulltorefresh_library\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\default_ptr_flip.png"
     },
     {
         "merged": "F:\\Users\\susan\\Desktop\\mvp_csc_hnc_2.1.0\\pulltorefresh_library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\app_refresh_people_1.png",
@@ -118,6 +166,10 @@
     {
         "merged": "F:\\work\\niupai\\Rxjava_NiuPai_Lqtj\\pulltorefresh_library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\app_refresh_people_8.png",
         "source": "F:\\work\\niupai\\Rxjava_NiuPai_Lqtj\\pulltorefresh_library\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\app_refresh_people_8.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\xuxiarong\\XXR_ZC_ZXY_LQTJ\\pulltorefresh_library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\app_refresh_people_4.png",
+        "source": "C:\\Users\\user\\Desktop\\xuxiarong\\XXR_ZC_ZXY_LQTJ\\pulltorefresh_library\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\app_refresh_people_4.png"
     },
     {
         "merged": "F:\\Users\\susan\\Desktop\\mvp_csc_hnc_2.1.0\\pulltorefresh_library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\app_refresh_people_8.png",
@@ -194,6 +246,10 @@
     {
         "merged": "C:\\NiuPai_Lqtj\\pulltorefresh_library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\app_refresh_people_0.png",
         "source": "C:\\NiuPai_Lqtj\\pulltorefresh_library\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\app_refresh_people_0.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\xuxiarong\\XXR_ZC_ZXY_LQTJ\\pulltorefresh_library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\app_refresh_people_1.png",
+        "source": "C:\\Users\\user\\Desktop\\xuxiarong\\XXR_ZC_ZXY_LQTJ\\pulltorefresh_library\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\app_refresh_people_1.png"
     },
     {
         "merged": "C:\\Rxjava_NiuPai_Lqtj\\pulltorefresh_library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\app_refresh_people_7.png",

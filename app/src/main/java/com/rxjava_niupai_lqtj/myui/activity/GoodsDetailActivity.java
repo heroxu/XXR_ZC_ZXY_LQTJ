@@ -31,7 +31,7 @@ import rx.functions.Func1;
 import rx.schedulers.Schedulers;
 
 /**
- * Created by user on 2016/5/9.
+ * Created by ${xuxiarong} on 2016/5/9.
  */
 public class GoodsDetailActivity extends BaseActivity{
 
